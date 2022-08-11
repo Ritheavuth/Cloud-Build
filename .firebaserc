@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "fir-project-61d00",
-    "deploying": "fir-project-61d00"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "fir-project-61d00"
+  }
 }
