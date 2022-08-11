@@ -7,9 +7,10 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit",
-    "deploy": "firebase deploy --debug --token \"$FIREBASE_TOKEN\" --only hosting"
+    "deploy": "firebase deploy --debug --token \"1//0em5ruwrHnC1PCgYIARAAGA4SNwF-L9IrTA9LvuI5Ap6ySZgvP3kCLpXW-KNdG_wE5h5aABsZspM3kYfymBLRmlit-1UyccpcRAE\" --only hosting"
   },
   "dependencies": {
+    "firebase": "^9.9.2",
     "vue": "^2.5.21"
   },
   "devDependencies": {
